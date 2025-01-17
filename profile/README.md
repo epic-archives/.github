@@ -1,5 +1,6 @@
 ## @epic-archives
 
+Submit new repos by opening an issue [here](https://github.com/epic-archives/.github/issues)
 <!--
 
 **Here are some ideas to get you started:**
